@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Lasten>
+    <Baustoffe>
+        <Holz>
+            <Volumen>100</Volumen>
+            <Balkenhöhe>6.5</Balkenhöhe>
+            <Balkenbreite>0.7</Balkenbreite>
+        </Holz>
+        <Zementestrich>
+            <Volumen>22</Volumen>
+        </Zementestrich>
+        <Dämmstoff>
+            <Volumen>0.3</Volumen>
+        </Dämmstoff>
+        <Stahlbeton>
+            <Volumen>25</Volumen>
+            <Balkenhöhe></Balkenhöhe>
+        </Stahlbeton>
+    </Baustoffe>
+    <Nutzlasten>
+        <Wohnräume>1.5</Wohnräume>
+        <Büroräume>3.0</Büroräume>
+        <Klassenzimmer>3.0</Klassenzimmer>
+        <Kantienen>3.0</Kantienen>
+        <Cafés>3.0</Cafés>
+        <Restaurants>3.0</Restaurants>
+        <Kirchen>4.0</Kirchen>
+        <Theater>4.0</Theater>
+        <Kinos>4.0</Kinos>
+        <Versammlungsräume>5.0</Versammlungsräume>
+        <Verkaufsräume>5.0</Verkaufsräume>
+        <Turnhallen>5.0</Turnhallen>
+        <Kleinbetriebe>5.0</Kleinbetriebe>
+        <Großviehställe>5.0</Großviehställe>
+        <Lagerflächen>6.0</Lagerflächen>
+        <Großbetriebe>7.5</Großbetriebe>
+        <Keine>0</Keine>
+    </Nutzlasten>
+</Lasten>

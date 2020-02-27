@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Lasten>
+    <Baustoffe>
+        <Holz>
+            <Volumen>100</Volumen>
+        </Holz>
+        <Zementestrich>
+            <Volumen>22</Volumen>
+        </Zementestrich>
+        <Dämmstoff>
+            <Volumen>0.3</Volumen>
+        </Dämmstoff>
+        <Stahlbeton>
+            <Volumen>25</Volumen>
+        </Stahlbeton>
+    </Baustoffe>
+    <Nutzlasten>
+        <Büroräume>
+            <Vorgabewert>300</Vorgabewert>
+        </Büroräume>
+    </Nutzlasten>
+</Lasten>
